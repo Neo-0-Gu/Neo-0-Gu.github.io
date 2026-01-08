@@ -24,4 +24,4 @@ I am an undergraduate student of [School of Intelligence Science and Technology,
 - **Outstanding Youth League Member**  <span style="float:right"> _May. 2024_ </span>
 
 ## 🪪 CV
-You can find my CV here: [NeoGu's Curriculum Vitae](../assets/CV-HaoyiGu.pdf).
+You can find my CV here: [NeoGu's Curriculum Vitae](../assets/CV-HaoyiGu.pdf), and more repositories can be seen in my [github](https://github.com/Neo-0-Gu).
