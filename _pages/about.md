@@ -17,8 +17,8 @@ I am an undergraduate student of [School of Intelligence Science and Technology,
 
 ## 🏅 Honors and Awards
 
-- **People's Scholarship**  _Nov. 2023 \& Nov. 2024 \& Nov. 2025_
-- **National 2nd Prize, China Undergraduate Mathematical Contest in Modeling** _Nov. 2024_
-- **National 3rd Prize (Data-Driven Track), CSIAM Operations Research Competition** _Oct. 2024_
-- **Jiangsu Government Scholarship for Overseas Studies** _Jan. 2023_
-- **Outstanding Youth League Member**  _May 2024_
+- **People's Scholarship** <span style="float:right"> _Nov. 2023 \& Nov. 2024 \& Nov. 2025_ </span>
+- **National 2nd Prize, China Undergraduate Mathematical Contest in Modeling** <span style="float:right"> _Nov. 2024_ </span>
+- **National 3rd Prize (Data-Driven Track), CSIAM Operations Research Competition** <span style="float:right"> _Oct. 2024_ </span>
+- **Jiangsu Government Scholarship for Overseas Studies**  <span style="float:right"> _Jan. 2023_ </span>
+- **Outstanding Youth League Member**  <span style="float:right"> _May 2024_ </span>
