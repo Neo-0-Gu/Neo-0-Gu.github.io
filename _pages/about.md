@@ -22,3 +22,6 @@ I am an undergraduate student of [School of Intelligence Science and Technology,
 - **National 3rd Prize, CSIAM Operations Research Competition** <span style="float:right"> _Oct. 2024_ </span>
 - **Jiangsu Government Scholarship for Overseas Studies**  <span style="float:right"> _Jan. 2023_ </span>
 - **Outstanding Youth League Member**  <span style="float:right"> _May. 2024_ </span>
+
+## <i class="fa-slab-press fa-regular fa-address-card"></i> CV
+You can find my CV here: [NeoGu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
