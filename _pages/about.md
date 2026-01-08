@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/is_en/main.htm) 
-where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
+I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/is_en/main.htm) , where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
 
 ## 🔥 News
 🎉 🎉 [*Pose conditioned Generative Steganography*](https://github.com/Neo-0-Gu/PCGS) is accepted by **_PRICAI 2025_**.
